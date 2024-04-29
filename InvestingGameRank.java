@@ -17,8 +17,9 @@ public class InvestingGameRank {
 
         /**
          * How do I do this?
-         *
+         * Update ranks for 4/29/2024
          * Store the names and their corresponding scores
+         * Add $5,000 per meeting attended
          */
 
         String[] names = {"Cmorreale", "Emre S.", "Artem F", "Mehul C.", "Anand P." , "Aravind S.", "Harsh", "John Ireland", "Soosup", "Walter t", "Helena young", "Brkeene", "Maysa F", "lily sigman", "wbfinv", "dsafdfa", "John K.", "Ronit K", "Gabe A.", "Daksh G", "Pdhakad", "Jpthesmar", "Sofiaxie", "Azizah", "Zach Newburg", "Talha Q", "Musalan", "Ryhannigan", "jetcloudz", "Syed S", "Luhai tang", "Amir J", "Abroche", "Ali R", "a12w", "Drago21", "Ethan F"};
