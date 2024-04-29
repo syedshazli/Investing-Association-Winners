@@ -22,7 +22,7 @@ public class InvestingGameRank {
          */
 
         String[] names = {"Cmorreale", "Emre S.", "Artem F", "Mehul C.", "Anand P." , "Aravind S.", "Harsh", "John Ireland", "Soosup", "Walter t", "Helena young", "Brkeene", "Maysa F", "lily sigman", "wbfinv", "dsafdfa", "John K.", "Ronit K", "Gabe A.", "Daksh G", "Pdhakad", "Jpthesmar", "Sofiaxie", "Azizah", "Zach Newburg", "Talha Q", "Musalan", "Ryhannigan", "jetcloudz", "Syed S", "Luhai tang", "Amir J", "Abroche", "Ali R", "a12w", "Drago21", "Ethan F"};
-        int[] wealth = {102350, 104724, 100666, 144172, 100210,100000, 100000,100000,100000,100000,100000,100000, 100000, 100000, 100000,100000,100000,100000, 100000,100000,100000,100249,100077, 99812,99177,99485,99824,97791,97323,99343, 97711, 99215, 94647, 101402,67806, 41312, 1000};
+        int[] wealth = {102350, 104724, 100666, 144172, 100210,100000, 100000,100000,100000,100000,100000,100000, 100000, 100000, 100000,100000,100000,100000, 100000,100000,100000,100249,100077, 99812,99177,99485,99824,97791,97323,99343, 97711, 99215, 94647, 101402,67806, 41312, 190000};
 
         int[] attendanceCount = {};
 
