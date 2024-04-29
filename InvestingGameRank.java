@@ -42,6 +42,11 @@ public class InvestingGameRank {
             System.out.println("How many meetings did " + names[i] + " attend?");
             int attendanceNum = scan.nextInt();
             System.out.println("attendance number is "+attendanceNum);
+            if(attendanceNum == 1){}
+            else if(attendanceNum ==2){}
+            else if(attendanceNum == 3){}
+            else if(attendanceNum ==4){}
+
         }
 
 
