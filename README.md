@@ -12,3 +12,4 @@ The one month S&P 500 return was -2.5%. Our winners managed returns up to 54% th
  * Musalan= $113,812
  * Zach Newburg= $109,216
 
+To run for next year, please update all usernames and their corresponding wealth. Input manually the number of meetings everyone attended to find the top 5 winners.
