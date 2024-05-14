@@ -1,4 +1,6 @@
 # Investing-Association-Winners
+View this in our group repo here: https://github.com/WPI-Investing-Association/Stock-Market-Game-Winners/tree/main
+
 A program for finding the winners of the WPI Investing Association Stock Market Competition Winners for D-term 2024 in java.
 This program takes into account the one month return rates of individual student portfolio's to find winners of the stock market game.
 Please note that for each meeting a member attended, $5000 was added into their balance. The starting balance was $100,000.
